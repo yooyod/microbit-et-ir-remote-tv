@@ -1,5 +1,6 @@
 {
     "name": "et-ir-remote-tv",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
